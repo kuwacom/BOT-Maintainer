@@ -1,0 +1,16 @@
+{
+  "name": "bot-maintainer",
+  "version": "1.0.0",
+  "description": "BOTのメンテナンス時の案内システム",
+  "author": "kuwa",
+  "homepage": "https://kuwa.app/",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.12.0",
+    "log4js": "^6.7.0"
+  }
+}

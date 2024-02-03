@@ -1,0 +1,109 @@
+{
+    "messageCommands": [
+        "!!km4",
+        "!!km3",
+        "!!km2",
+        "!!km"
+    ],
+    "message": {
+        "template": {
+            "embed": {
+                "type": "rich",
+                "title": "タイトル",
+                "description": "ディスクリプション",
+                "url": null,
+                "color": 64154,
+                "timestamp": null,
+                "fields": [
+                    {
+                        "name": "フィールド1",
+                        "value": "内容",
+                        "inline": true
+                    }
+                ],
+                "thumbnail": null,
+                "image": null,
+                "video": null,
+                "author": null,
+                "provider": null,
+                "footer": {
+                    "text": "フッター",
+                    "iconURL": null
+                }
+            },
+            "ephemeral": true
+        },
+        "button": {
+            "embed": {
+                "type": "rich",
+                "title": "📢現在メンテナンス中です",
+                "description": "**申し訳ございません**\n現在メンテナンスを実施中です！\n詳細はサポートサーバーより確認できます\n[サポートサーバー: https://kuwa.app/discord/support](https://kuwa.app/discord/support)",
+                "url": null,
+                "color": 16753920,
+                "timestamp": null,
+                "fields": [],
+                "thumbnail": null,
+                "image": "https://cdn.kuwa.app/image/?path=server_frame_color.png&size=100",
+                "video": null,
+                "author": null,
+                "provider": null,
+                "footer": {
+                    "text": "Powered BY kuwa.app",
+                    "iconURL": "https://cdn.kuwa.app/image/?path=server_icon.png&size=20"
+                }
+            },
+            "ephemeral": true
+        },
+        "selectMenu": {
+            "embed": {
+                "type": "rich",
+                "title": "📢現在メンテナンス中です",
+                "description": "**申し訳ございません**\n現在メンテナンスを実施中です！\n詳細はサポートサーバーより確認できます\n[サポートサーバー:https://kuwa.app/discord/support](https://kuwa.app/discord/support)",
+                "url": null,
+                "color": 16753920,
+                "timestamp": null,
+                "fields": [],
+                "thumbnail": null,
+                "image": "https://cdn.kuwa.app/image/?path=server_frame_color.png&size=100",
+                "video": null,
+                "author": null,
+                "provider": null,
+                "footer": {
+                    "text": "Powered BY kuwa.app",
+                    "iconURL": "https://cdn.kuwa.app/image/?path=server_icon.png&size=20"
+                }
+            },
+            "ephemeral": true
+        },
+        "command": {
+            "embed": {
+                "type": "rich",
+                "title": "📢現在メンテナンス中です",
+                "description": "**申し訳ございません**\n現在メンテナンスを実施中です！\n詳細はサポートサーバーより確認できます\n[サポートサーバー:https://kuwa.app/discord/support](https://kuwa.app/discord/support)",
+                "url": null,
+                "color": 16753920,
+                "timestamp": null,
+                "fields": [],
+                "thumbnail": null,
+                "image": "https://cdn.kuwa.app/image/?path=server_frame_color.png&size=100",
+                "video": null,
+                "author": null,
+                "provider": null,
+                "footer": {
+                    "text": "Powered BY kuwa.app",
+                    "iconURL": "https://cdn.kuwa.app/image/?path=server_icon.png&size=20"
+                }
+            },
+            "ephemeral": false
+        }
+    },
+    "bots": [
+        {
+            "notic": true,
+            "name": "",
+            "token": "",
+            "switch": false,
+            "message": {}
+        }
+    ]
+}
